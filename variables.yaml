@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.awsdevops.space # submit your host
+REDIS_HOST: redis.awsdevops.space
+MYSQL_HOST: mysql.awsdevops.space
+RABBITMQ_HOST: rabbitmq.awsdevops.space
+CATALOGUE_HOST: catalogue.awsdevops.space
+USER_HOST: user.awsdevops.space
+CART_HOST: cart.awsdevops.space
+SHIPPING_HOST: shipping.awsdevops.space
+PAYMENT_HOST: payment.awsdevops.space
+DISPATCH_HOST: dispatch.awsdevops.space
