@@ -8,5 +8,5 @@ CART_HOST: cart-prod.awsdevops.space
 SHIPPING_HOST: shipping-prod.awsdevops.space 
 PAYMENT_HOST: payment-prod.awsdevops.space 
 DISPATCH_HOST: dispatch-prod.awsdevops.space
-NEXUS_URL: http://172.31.41.128:8081/repository
+NEXUS_URL: http://172.31.39.82:8081/repository
 group_id: "com/roboshop"
